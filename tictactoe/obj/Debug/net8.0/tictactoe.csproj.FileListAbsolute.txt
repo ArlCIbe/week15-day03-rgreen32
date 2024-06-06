@@ -1,0 +1,15 @@
+C:\Users\raygr\Documents\Dev\week15-day03-rgreen32\tictactoe\bin\Debug\net8.0\tictactoe.exe
+C:\Users\raygr\Documents\Dev\week15-day03-rgreen32\tictactoe\bin\Debug\net8.0\tictactoe.deps.json
+C:\Users\raygr\Documents\Dev\week15-day03-rgreen32\tictactoe\bin\Debug\net8.0\tictactoe.runtimeconfig.json
+C:\Users\raygr\Documents\Dev\week15-day03-rgreen32\tictactoe\bin\Debug\net8.0\tictactoe.dll
+C:\Users\raygr\Documents\Dev\week15-day03-rgreen32\tictactoe\bin\Debug\net8.0\tictactoe.pdb
+C:\Users\raygr\Documents\Dev\week15-day03-rgreen32\tictactoe\obj\Debug\net8.0\tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raygr\Documents\Dev\week15-day03-rgreen32\tictactoe\obj\Debug\net8.0\tictactoe.AssemblyInfoInputs.cache
+C:\Users\raygr\Documents\Dev\week15-day03-rgreen32\tictactoe\obj\Debug\net8.0\tictactoe.AssemblyInfo.cs
+C:\Users\raygr\Documents\Dev\week15-day03-rgreen32\tictactoe\obj\Debug\net8.0\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\raygr\Documents\Dev\week15-day03-rgreen32\tictactoe\obj\Debug\net8.0\tictactoe.sourcelink.json
+C:\Users\raygr\Documents\Dev\week15-day03-rgreen32\tictactoe\obj\Debug\net8.0\tictactoe.dll
+C:\Users\raygr\Documents\Dev\week15-day03-rgreen32\tictactoe\obj\Debug\net8.0\refint\tictactoe.dll
+C:\Users\raygr\Documents\Dev\week15-day03-rgreen32\tictactoe\obj\Debug\net8.0\tictactoe.pdb
+C:\Users\raygr\Documents\Dev\week15-day03-rgreen32\tictactoe\obj\Debug\net8.0\tictactoe.genruntimeconfig.cache
+C:\Users\raygr\Documents\Dev\week15-day03-rgreen32\tictactoe\obj\Debug\net8.0\ref\tictactoe.dll
